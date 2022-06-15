@@ -1,0 +1,15 @@
+
+git clone - clona repositórios
+git status - exibe status do repositório e arquivos
+git commit -m " mensagem " - faz o commit
+git pull - baixa as atualizações do repositório para o ambiente
+git push - envia os commits para o repositório
+git branch nome - criar branch
+git checkout nome - mudar de branch
+cd ..- vai para o diretório pai
+cd ~ - vai para o diretório raiz do usuário
+cd / - vai para o diretório raiz do disco
+mkdir diretório - cria diretório
+rm arquivo - remove arquivo
+ls - lista os arquivos e diretórios
+ls -l - lista os arquivos e diretórios e informações dos arquivos
